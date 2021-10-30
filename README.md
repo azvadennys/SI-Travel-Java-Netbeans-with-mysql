@@ -1,4 +1,4 @@
-# SI-Travel-Java-Netbeans-with-mysql
+# SI Travel Java Netbeans with mysql
 Project Tubes Proyek Dasar Pemrograman.\
 \
 Pada project ini terdapat jar yang sudah saya tambahkan agar dapat mengakses fitur fitur\
